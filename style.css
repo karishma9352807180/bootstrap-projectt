@@ -1,0 +1,36 @@
+#fancy{
+    background: linear-gradient(to bottom, rgb(158, 158, 255), rgb(162, 72, 162), rgb(235, 79, 105));
+    
+    background-clip: text;
+      color: transparent;
+}
+
+#fancy2{
+    background: linear-gradient(to bottom, rgb(158, 158, 255), rgb(162, 72, 162), rgb(235, 79, 105));
+    
+    background-clip: text;
+      color: transparent;
+      margin-left: 20px;
+}
+
+#features_section i{
+    font-size: 3rem;
+}
+
+#services_section i{
+    font-size: 3rem;
+}
+
+#team i{
+    font-size: 2rem;
+    margin-left: 20px;
+}
+
+#footer i{
+    font-size: 2rem;
+    margin-left: 20px;
+} 
+
+#footer{
+    background-color: rgb(225, 225, 225);
+}
